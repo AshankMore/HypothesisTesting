@@ -1,4 +1,4 @@
-# Hypothesis_Testing
+# Hypothesis Testing
 Statistical analysis using Python<br> 
 Data File: The Crash Reporting - Incidents Data from Montgomery County, MD will be used for the test.<br>
 Data source: https://catalog.data.gov/dataset/crash-reporting-incidents-data <br>
