@@ -1,4 +1,13 @@
 # Hypothesis Testing
+Hypothesis testing in statistics is a way for you to test the results of a survey or experiment to see if you have meaningful results. You’re basically testing whether your results are valid by figuring out the odds that your results have happened by chance. If your results may have happened by chance, the experiment won’t be repeatable and so has little use.<br>
+
+Hypothesis testing steps:<br>
+
+1. Figure out your null hypothesis<br>
+2. State your null hypothesis<br>
+3. Choose what kind of test you need to perform<br>
+4. Either support or reject the null hypothesis.<br>
+
 Statistical analysis using Python<br> 
 Data File: The Crash Reporting - Incidents Data from Montgomery County, MD will be used for the test.<br>
 Data source: https://catalog.data.gov/dataset/crash-reporting-incidents-data <br>
